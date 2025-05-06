@@ -1,5 +1,3 @@
 #!/usr/bin/env bash
-
-# Affiche les ports en écoute et utilise lsof pour obtenir les PID et noms des programmes
-
-lsof -i -P -n | grep LISTEN
+# netstat
+netstat
