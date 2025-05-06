@@ -10,3 +10,20 @@
 	- Alphabetically
 	- From the lowest to the highest level
 	- Randomly
+
+## 1. Types of network
+- What type of network a computer in local is connected to?
+	- Internet
+	- WAN
+	- LAN
+
+- What type of network could connect an office in one building to another office in a building a few streets away?
+	- Internet
+	- WAN
+	- LAN
+
+- What network do you use when you browse www.google.com from your smartphone (not connected to the Wifi)?
+	- Internet
+	- WAN
+	- LAN
+
