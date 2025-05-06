@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # Réponse: What is OSI model ?
-echo 3
+echo 2
 
 # Réponse: How is the OSI model organized?
 echo 3
