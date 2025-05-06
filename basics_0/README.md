@@ -27,7 +27,7 @@
 	- WAN
 	- LAN
 
-## MAC and IP address
+## 2. MAC and IP address
 - What is a MAC address?
 	- The name of a network interface
 	- The unique identifier of a network interface
@@ -38,4 +38,15 @@
 	- The unique identifier of a network interface
 	- Is a number that network devices use to connect to networks
 
+## 3. UDP and TCP
+- Which statement is correct for the TCP box:
+	- It is a protocol that is transferring data in a slow way but surely
+	- It is a protocol that is transferring data in a fast way and might loss data along in the process
 
+- Which statement is correct for the UDP box:
+	- It is a protocol that is transferring data in a slow way but surely
+	- It is a protocol that is transferring data in a fast way and might loss data along in the process
+
+- Which statement is correct for the TCP worker:
+	- Have you received boxes x, y, z?
+	- May I increase the rate at which I am sending you boxes?
