@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# script
+nc -l localhost 98
